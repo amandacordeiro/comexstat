@@ -26,7 +26,24 @@ E faça o donwload dos seguintes arquivos:
 * `Exportação` : 2019 e 2020.
 * `Tabelas de Correlações de Códigos e Classificações` : Países, Munícipios e SH - Sistema Harmonizado.
 
-Os arquivos CSV utilizados se encontram na pasta `arquivos_csv` caso você não consiga acessar o site.
+Os arquivos CSV utilizados se encontram na pasta `Arquivos_CSV` caso você não consiga acessar o site.
  
  ## Visualização 
  
+![Exportacoes](https://i.imgur.com/rT2vvK5.png)
+
+![Exportacoes2](https://i.imgur.com/2arIBcV.png)
+
+![Exportacoes3](https://i.imgur.com/L6FNJbG.png)
+
+![Exportacoes4](https://i.imgur.com/kSAqP3m.png)
+
+## Conclusão 
+
+Eu aprendi muito sobre C# e SQL durante o desenvolvimento desse projeto, e espero que este repositório sirva de ajuda para outras pessoas! 
+
+O conhecimento e as habilidades adquiridas até aqui serão úteis para projetos futuros.
+
+O próximo passo agora será a criação de um Sistema de Banco de Dados Relacional.
+
+Vejo você por lá ~
