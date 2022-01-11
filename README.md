@@ -9,7 +9,7 @@ Este repositório documenta o processo de coleta de dados, limpeza, tratamento, 
 * `Visual Studio 2022` : Para edição do código.
 * `MySQL Workbench 8.0 CE` :  Para criação do banco de dados.
 
-[Link para donwload do Visual Studio 2022](https://visualstudio.microsoft.com/pt-br/downloads/)
+[Link para download do Visual Studio 2022](https://visualstudio.microsoft.com/pt-br/downloads/)
 
 [Link para tutorial de instalação do MySQL Workbench](https://www.youtube.com/watch?v=zpssr3u1EO8&t=125s)
 
