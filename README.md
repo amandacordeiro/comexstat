@@ -21,7 +21,7 @@ Este repositório documenta o processo de coleta de dados, limpeza, tratamento, 
 
 No site do Ministério da Economia, acesse as Estatísticas de Comércio Exterior em Dados Abertos ou [clique aqui](https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-exterior/estatisticas/base-de-dados-bruta)
 
-E faça o donwload dos seguintes arquivos:
+E faça o download dos seguintes arquivos:
 
 * `Exportação` : 2019 e 2020.
 * `Tabelas de Correlações de Códigos e Classificações` : Países, Munícipios e SH - Sistema Harmonizado.
